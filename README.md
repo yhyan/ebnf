@@ -8,8 +8,9 @@
 
 
 Syntax reference
-[C quick syntax reference](https://github.com/Apress/c-quick-syntax-reference)
-[C++ quick syntax reference](https://github.com/Apress/c-plus-plus-quick-syntax-reference)
-[Java quick syntax reference](https://github.com/Apress/java-quick-syntax-reference)
-[Python quick syntax reference](https://github.com/Apress/python-quick-syntax-reference)
-[golang syntax](https://github.com/a8m/golang-cheat-sheet)
+
+- [C quick syntax reference](https://github.com/Apress/c-quick-syntax-reference)
+- [C++ quick syntax reference](https://github.com/Apress/c-plus-plus-quick-syntax-reference)
+- [Java quick syntax reference](https://github.com/Apress/java-quick-syntax-reference)
+- [Python quick syntax reference](https://github.com/Apress/python-quick-syntax-reference)
+- [golang syntax](https://github.com/a8m/golang-cheat-sheet)
