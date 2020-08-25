@@ -6,3 +6,10 @@
 - [JavaSE 14 syntax](https://docs.oracle.com/javase/specs/jls/se14/html/jls-19.html)
 - [2011 ISO C standard](http://www.quut.com/c/ANSI-C-grammar-y-2011.html)
 
+
+Syntax reference
+[C quick syntax reference](https://github.com/Apress/c-quick-syntax-reference)
+[C++ quick syntax reference](https://github.com/Apress/c-plus-plus-quick-syntax-reference)
+[Java quick syntax reference](https://github.com/Apress/java-quick-syntax-reference)
+[Python quick syntax reference](https://github.com/Apress/python-quick-syntax-reference)
+[golang syntax](https://github.com/a8m/golang-cheat-sheet)
